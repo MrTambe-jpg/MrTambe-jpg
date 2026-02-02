@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # 🕹️ My GitHub Activity Game
 <p align="center">
-  <img src="assets/space-shooter.gif" alt="Space Shooter Game" />
+  <img src="assets/MrTambe-space-shooter.gif" alt="Space Shooter Game" />
 </p>
 
 # 💫 About Me:
