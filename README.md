@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 # 💫 About Me:
 I'm currently working on Personal Projects<br>I'm looking to collaborate on Open source projects<br>I'm looking for help with Codes Idea's & Brainstroms<br>I'm currently learning Ai/Ml<br>Ask me about VibeCode<br>+ Fun fact: I use Ai like a Slave
 
+<p align="center">
+  <img src="assets/space-shooter.gif" alt="Space Shooter Game" width="800" />
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/just_tambel0o0l) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanshit-tambe-b464533aa/)
