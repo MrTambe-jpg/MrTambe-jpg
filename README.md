@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 🕹️ My GitHub Activity Game
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;3D+Creative+Coder;Open+Source+Enthusiast;Automation+Lover" alt="Typing SVG" />
-  </a>
+  <img src="assets/space-shooter.gif" alt="Space Shooter Game" />
 </p>
 
 # 💫 About Me:
