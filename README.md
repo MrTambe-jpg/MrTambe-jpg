@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🕹️ My GitHub Activity Game
-<p align="center">
-  <img src="assets/MrTambe-space-shooter.gif" alt="Space Shooter Game" />
-</p>
+
 
 # 💫 About Me:
 I'm currently working on Personal Projects<br>I'm looking to collaborate on Open source projects<br>I'm looking for help with Codes Idea's & Brainstroms<br>I'm currently learning Ai/Ml<br>Ask me about VibeCode<br>+ Fun fact: I use Ai like a Slave
