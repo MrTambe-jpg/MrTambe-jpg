@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 🔥 WHO AM I + ANIME -->
 <table>
 <tr>
 
-<!-- 🧠 LEFT SIDE (WHO AM I) -->
 <td width="55%" valign="top">
 
 <h2>◈ &nbsp; <code>who am I?</code></h2>
@@ -26,18 +26,17 @@ Here are some ideas to get you started:
 </code></pre>
 
 <pre><code>{
-  "name"     : "Sanshit Tambe",
-  "origin"   : "IN 🌍",
+  "name"     : "Your Name",
+  "origin"   : "Your Country 🌍",
   "role"     : "Software Developer",
   "focus"    : ["AI", "Robotics", "Systems"],
   "status"   : "always building something",
-  "fuel"     : "Monster + curiosity",
-  "quote"    : "Don't Give a Fuck"
+  "fuel"     : "coffee + curiosity",
+  "quote"    : "Your quote here"
 }</code></pre>
 
 </td>
 
-<!-- 🎨 RIGHT SIDE (ANIME GIRL) -->
 <td width="45%" align="center" valign="top">
 
 <br/><br/>
@@ -52,13 +51,13 @@ Here are some ideas to get you started:
 </tr>
 </table>
 
----
 <br/>
 
+<!-- 💫 ABOUT + STATS -->
 <table>
 <tr>
 
-<!-- 💫 LEFT SIDE -->
+<!-- LEFT -->
 <td width="50%" valign="top">
 
 <h2>💫 About Me:</h2>
@@ -73,26 +72,26 @@ Ask me about VibeCode<br><br>
 
 </td>
 
-<!-- 📊 RIGHT SIDE -->
+<!-- RIGHT -->
 <td width="50%" valign="top" align="center">
 
-<!-- 🔝 GitHub Stats -->
+<!-- ✅ MAIN STATS (stable mirror) -->
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=MrTambe-jpg&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrTambe-jpg&show_icons=true&theme=tokyonight&hide_border=true" 
   width="90%"
 />
 
 <br/><br/>
 
-<!-- 🧠 Top Languages -->
+<!-- ✅ TOP LANGS -->
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTambe-jpg&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrTambe-jpg&layout=compact&theme=tokyonight&hide_border=true" 
   width="90%"
 />
 
 <br/><br/>
 
-<!-- 🔥 Streak (ALWAYS works) -->
+<!-- ✅ STREAK (always works) -->
 <img 
   src="https://streak-stats.demolab.com?user=MrTambe-jpg&theme=tokyonight&hide_border=true" 
   width="90%"
@@ -102,7 +101,6 @@ Ask me about VibeCode<br><br>
 
 </tr>
 </table>
-
 ---
 
 <p align="center">
