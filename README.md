@@ -14,6 +14,47 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 🔥 WHO AM I + ANIME -->
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
+<h2>◈ &nbsp; <code>who am I?</code></h2>
+
+<pre><code>$ cat profile.json
+</code></pre>
+
+<pre><code>{
+  "name"     : "Your Name",
+  "origin"   : "Your Country 🌍",
+  "role"     : "Software Developer",
+  "focus"    : ["AI", "Robotics", "Systems"],
+  "status"   : "always building something",
+  "fuel"     : "coffee + curiosity",
+  "quote"    : "Your quote here"
+}</code></pre>
+
+</td>
+
+<td width="45%" align="center" valign="top">
+
+<br/><br/>
+
+<img 
+  src="https://i.pinimg.com/originals/fc/67/70/fc67709223666fddb8097e9fc4dfd705.jpg" 
+  width="90%" 
+/>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+---
+
 <!-- 💫 ABOUT + STATS -->
 <table>
 <tr>
@@ -42,7 +83,6 @@ Ask me about VibeCode<br><br>
   width="90%"
 />
 
-<br/><br/>
 
 <!-- 🧠 Top Languages (gold theme) -->
 <img 
@@ -50,7 +90,6 @@ Ask me about VibeCode<br><br>
   width="90%"
 />
 
-<br/><br/>
 
 <!-- 🔥 Streak (your exact theme) -->
 <img 
