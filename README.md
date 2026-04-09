@@ -187,7 +187,7 @@ Ask me about VibeCode<br><br>
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MrTambe&theme=gotham&no-frame=false&no-bg=true&margin-w=4)
+[![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=MrTambe&theme=gotham&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
