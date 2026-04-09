@@ -14,7 +14,43 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<table>
+<tr>
 
+<!-- 🧠 LEFT SIDE (WHO AM I) -->
+<td width="55%" valign="top">
+
+<h2>◈ &nbsp; <code>who am I?</code></h2>
+
+<pre><code>$ cat profile.json
+</code></pre>
+
+<pre><code>{
+  "name"     : "Your Name",
+  "origin"   : "Your Country 🌍",
+  "role"     : "Software Developer",
+  "focus"    : ["AI", "Robotics", "Systems"],
+  "status"   : "always building something",
+  "fuel"     : "coffee + curiosity",
+  "quote"    : "Your quote here"
+}</code></pre>
+
+</td>
+
+<!-- 🎨 RIGHT SIDE (ANIME GIRL) -->
+<td width="45%" align="center" valign="top">
+
+<br/><br/>
+
+<img 
+  src="https://i.pinimg.com/originals/fc/67/70/fc67709223666fddb8097e9fc4dfd705.jpg" 
+  width="90%" 
+/>
+
+</td>
+
+</tr>
+</table>
 
 # 💫 About Me:
 I'm currently working on Personal Projects<br>I'm looking to collaborate on Open source projects<br>I'm looking for help with Codes Idea's & Brainstroms<br>I'm currently learning Ai/Ml<br>Ask me about VibeCode<br>+ Fun fact: I use Ai like a Slave
@@ -90,9 +126,15 @@ I'm currently working on Personal Projects<br>I'm looking to collaborate on Open
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MrTambe&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MrTambe&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTambe&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
+
+<div align="center">
+
+<img 
+  src="https://streak-stats.demolab.com?user=MrTambe-jpg&theme=dark&background=0d0d0d&border=2a2a2a&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555" 
+/>
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MrTambe&theme=gotham&no-frame=false&no-bg=true&margin-w=4)
