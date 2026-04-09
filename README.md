@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <tr>
 
 <!-- 💫 LEFT SIDE -->
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 
 <h2>💫 About Me:</h2>
 
@@ -74,28 +74,28 @@ Ask me about VibeCode<br><br>
 </td>
 
 <!-- 📊 RIGHT SIDE -->
-<td width="45%" valign="top" align="center">
+<td width="50%" valign="top" align="center">
 
 <!-- 🔝 GitHub Stats -->
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=MrTambe-jpg&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" 
-  width="95%"
+  src="https://github-readme-stats.vercel.app/api?username=MrTambe-jpg&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+  width="90%"
 />
 
 <br/><br/>
 
 <!-- 🧠 Top Languages -->
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTambe-jpg&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" 
-  width="95%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTambe-jpg&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+  width="90%"
 />
 
 <br/><br/>
 
-<!-- 🔥 Streak -->
+<!-- 🔥 Streak (ALWAYS works) -->
 <img 
-  src="https://streak-stats.demolab.com?user=MrTambe-jpg&theme=dark&background=0d0d0d&border=2a2a2a&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555" 
-  width="95%"
+  src="https://streak-stats.demolab.com?user=MrTambe-jpg&theme=tokyonight&hide_border=true" 
+  width="90%"
 />
 
 </td>
