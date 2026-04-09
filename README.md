@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- 🔥 ROW 1: WHO AM I + ANIME -->
 <tr>
 
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 <h2>◈ &nbsp; <code>who am I?</code></h2>
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="60%" align="center" valign="top">
 
 <br/><br/>
 
@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <!-- 💫 ROW 2: ABOUT + STATS -->
 <tr>
 
-<td width="50%" valign="top">
+<td width="40%" valign="top">
 
 <h2>💫 About Me:</h2>
 
@@ -69,7 +69,7 @@ Ask me about VibeCode<br><br>
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="60%" valign="top" align="center">
 
 <!-- 🔝 Stats -->
 <img 
@@ -77,15 +77,11 @@ Ask me about VibeCode<br><br>
   width="95%"
 />
 
-<br/><br/>
-
 <!-- 🧠 Top Languages -->
 <img 
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrTambe-jpg&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=C9A96E&text_color=ffffff" 
   width="95%"
 />
-
-<br/><br/>
 
 <!-- 🔥 Streak -->
 <img 
@@ -98,7 +94,7 @@ Ask me about VibeCode<br><br>
 </tr>
 
 </table>
----
+
 
 <p align="center">
   <img src="assets/space-shooter.gif" alt="Space Shooter Game" width="800" />
