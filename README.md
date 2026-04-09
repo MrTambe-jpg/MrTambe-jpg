@@ -1,20 +1,27 @@
+## ◈ &nbsp; `who am I?`
 
-<!--
-**MrTambe-jpg/MrTambe-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+$ cat profile.json
+```
 
-Here are some ideas to get you started:
+```json
+{
+  "name"     : "Iuri Pedroso",
+  "origin"   : "Brazil 🇧🇷",
+  "role"     : "Software Developer",
+  "focus"    : ["Flutter", "Web", "AI", "Systems"],
+  "status"   : "always building something",
+  "fuel"     : "caffeine + silence",
+  "quote"    : "Art is self-expression striving to be absolute."
+}
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</td>
+<td width="45%" valign="top" align="center">
 
+<br/><br/>
 
+<img src="https://i.pinimg.com/originals/fc/67/70/fc67709223666fddb8097e9fc4dfd705.jpg" width="88%" />
 
 # 💫 About Me:
 I'm currently working on Personal Projects<br>I'm looking to collaborate on Open source projects<br>I'm looking for help with Codes Idea's & Brainstroms<br>I'm currently learning Ai/Ml<br>Ask me about VibeCode<br>+ Fun fact: I use Ai like a Slave
@@ -90,9 +97,8 @@ I'm currently working on Personal Projects<br>I'm looking to collaborate on Open
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MrTambe&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MrTambe&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrTambe&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iuripedroso&theme=dark&background=0d0d0d&border=2a2a2a&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555)](https://git.io/streak-stats)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MrTambe&theme=gotham&no-frame=false&no-bg=true&margin-w=4)
