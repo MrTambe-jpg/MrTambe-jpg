@@ -52,12 +52,13 @@ Here are some ideas to get you started:
 </tr>
 </table>
 
+---
 <br/>
 
 <table>
 <tr>
 
-<!-- 💫 LEFT SIDE (ABOUT ME) -->
+<!-- 💫 LEFT SIDE -->
 <td width="55%" valign="top">
 
 <h2>💫 About Me:</h2>
@@ -66,37 +67,43 @@ I'm currently working on Personal Projects<br>
 I'm looking to collaborate on Open source projects<br>
 I'm looking for help with Codes Idea's & Brainstroms<br>
 I'm currently learning Ai/Ml<br>
-Ask me about VibeCode<br>
-+ Fun fact: I use Ai like a Slave
+Ask me about VibeCode<br><br>
+
+• Fun fact: I automate everything with AI
 
 </td>
 
-<!-- 📊 RIGHT SIDE (STATS PANEL) -->
+<!-- 📊 RIGHT SIDE -->
 <td width="45%" valign="top" align="center">
 
 <!-- 🔝 GitHub Stats -->
 <img 
   src="https://github-readme-stats.vercel.app/api?username=MrTambe-jpg&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=ffffff" 
+  width="95%"
 />
 
 <br/><br/>
 
-<!-- 📊 Top Languages -->
+<!-- 🧠 Top Languages -->
 <img 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrTambe-jpg&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff" 
+  width="95%"
 />
 
 <br/><br/>
 
-<!-- 🔥 Streak Stats -->
+<!-- 🔥 Streak -->
 <img 
   src="https://streak-stats.demolab.com?user=MrTambe-jpg&theme=dark&background=0d0d0d&border=2a2a2a&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555" 
+  width="95%"
 />
 
 </td>
 
 </tr>
 </table>
+
+---
 
 <p align="center">
   <img src="assets/space-shooter.gif" alt="Space Shooter Game" width="800" />
