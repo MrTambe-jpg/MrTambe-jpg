@@ -51,10 +51,6 @@ Here are some ideas to get you started:
 </tr>
 </table>
 
-<br/>
-
----
-
 <!-- 💫 ABOUT + STATS -->
 <table>
 <tr>
