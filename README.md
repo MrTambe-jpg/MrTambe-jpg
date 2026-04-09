@@ -1,30 +1,14 @@
+<!-- ===================== PROFILE HEADER ===================== -->
 
-<!--
-**MrTambe-jpg/MrTambe-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- 🔥 WHO AM I + ANIME -->
 <table width="100%" style="border-collapse: collapse;">
 
-<!-- 🔥 ROW 1 -->
 <tr>
 
-<!-- 🧠 WHO AM I (SCROLLABLE CARD) -->
+<!-- 🧠 WHO AM I -->
 <td width="50%" valign="top" style="padding:10px;">
 
 <div style="
-  background-color:#0d0d0d;
+  background:#0d0d0d;
   border:1px solid #2a2a2a;
   border-radius:12px;
   padding:15px;
@@ -32,27 +16,26 @@ Here are some ideas to get you started:
   overflow-y:auto;
 ">
 
-<h2 style="color:#C9A96E;">◈ <code>who am I?</code></h2>
+<h2 style="color:#C9A96E;">◈ <code>Who am I?</code></h2>
 
 <pre><code>{
-  "name"     : "Your Name",
-  "origin"   : "Your Country 🌍",
-  "role"     : "Software Developer",
-  "focus"    : ["AI", "Robotics", "Systems"],
-  "status"   : "always building something",
-  "fuel"     : "coffee + curiosity",
-  "quote"    : "Your quote here"
+  "name"   : "Your Name",
+  "country": "Your Country 🌍",
+  "role"   : "Software Developer",
+  "focus"  : ["AI", "Robotics", "Systems"],
+  "status" : "Always building something",
+  "fuel"   : "Coffee ☕ + Curiosity",
+  "quote"  : "Build. Break. Learn. Repeat."
 }</code></pre>
 
 </div>
-
 </td>
 
-<!-- 🎨 ANIME CARD -->
-<td width="50%" valign="top" style="padding:10px;" align="center">
+<!-- 🎨 IMAGE CARD -->
+<td width="50%" valign="top" align="center" style="padding:10px;">
 
 <div style="
-  background-color:#0d0d0d;
+  background:#0d0d0d;
   border:1px solid #2a2a2a;
   border-radius:12px;
   padding:10px;
@@ -60,27 +43,26 @@ Here are some ideas to get you started:
 
 <img 
   src="https://i.pinimg.com/originals/fc/67/70/fc67709223666fddb8097e9fc4dfd705.jpg" 
-  style="border-radius:10px;"
   width="90%"
+  style="border-radius:10px;"
 />
 
 </div>
-
 </td>
 
 </tr>
 
-<!-- SPACING -->
 <tr><td colspan="2" height="10"></td></tr>
 
-<!-- 💫 ROW 2 -->
+<!-- ===================== ABOUT + STATS ===================== -->
+
 <tr>
 
-<!-- 💫 ABOUT CARD -->
+<!-- 💫 ABOUT -->
 <td width="50%" valign="top" style="padding:10px;">
 
 <div style="
-  background-color:#0d0d0d;
+  background:#0d0d0d;
   border:1px solid #2a2a2a;
   border-radius:12px;
   padding:15px;
@@ -88,23 +70,24 @@ Here are some ideas to get you started:
 
 <h2 style="color:#C9A96E;">💫 About Me</h2>
 
-I'm currently working on Personal Projects<br>
-I'm looking to collaborate on Open source projects<br>
-I'm looking for help with Codes Idea's & Brainstroms<br>
-I'm currently learning Ai/Ml<br>
-Ask me about VibeCode<br><br>
+<ul>
+  <li>🔭 Working on personal projects</li>
+  <li>🌱 Learning AI / ML</li>
+  <li>🤝 Open to open-source collaborations</li>
+  <li>💡 Looking for ideas & brainstorming</li>
+  <li>💬 Ask me about coding & creative builds</li>
+</ul>
 
-• Fun fact: I automate everything with AI
+<p><b>⚡ Fun fact:</b> I automate everything with AI</p>
 
 </div>
-
 </td>
 
-<!-- 📊 STATS CARD -->
+<!-- 📊 STATS -->
 <td width="50%" valign="top" align="center" style="padding:10px;">
 
 <div style="
-  background-color:#0d0d0d;
+  background:#0d0d0d;
   border:1px solid #2a2a2a;
   border-radius:12px;
   padding:10px;
@@ -115,14 +98,10 @@ Ask me about VibeCode<br><br>
   width="95%"
 />
 
-
-
 <img 
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrTambe-jpg&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=C9A96E&text_color=ffffff" 
   width="95%"
 />
-
-
 
 <img 
   src="https://streak-stats.demolab.com?user=MrTambe-jpg&theme=dark&background=0d0d0d&border=2a2a2a&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555" 
@@ -130,90 +109,55 @@ Ask me about VibeCode<br><br>
 />
 
 </div>
-
 </td>
 
 </tr>
 
 </table>
 
+<!-- ===================== GIF ===================== -->
 
 <p align="center">
-  <img src="assets/space-shooter.gif" alt="Space Shooter Game" width="800" />
+  <img src="assets/space-shooter.gif" width="800" />
 </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/just_tambel0o0l) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanshit-tambe-b464533aa/)
+<!-- ===================== SOCIALS ===================== -->
 
-# 💻 Tech Stack:
-### 🛠️ Languages & Tools
+## 🌐 Connect with Me
 
-#### 💻 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/just_tambel0o0l)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanshit-tambe-b464533aa/)
 
-#### 🌐 Web & Frameworks
-<p align="left">
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
-</p>
+---
 
-#### 📱 Mobile & Desktop Apps
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white" alt="Electron.js" />
-  <img src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF" alt="Tauri" />
-</p>
+## 💻 Tech Stack
 
-#### 🤖 AI, Data Science & Graphics
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge" alt="OpenGL" />
-  <img src="https://img.shields.io/badge/RAYLIB-FFFFFF?style=for-the-badge&logo=raylib&logoColor=black" alt="RayLib" />
-</p>
+### 🧠 Languages
+C • C++ • Java • Python • JavaScript • HTML • Bash
 
-#### ⚙️ Backend, Database & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-</p>
+### 🌐 Web & Frameworks
+Next.js • Node.js • NestJS • Vite • Tailwind • WordPress
 
-#### 🛠️ Dev Tools & Others
-<p align="left">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220" alt="PNPM" />
-  <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
-  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-</p>
+### 📱 Apps
+Flutter • Electron • Tauri
+
+### 🤖 AI & Data
+TensorFlow • PyTorch • OpenCV • NumPy • Pandas • OpenGL • Raylib
+
+### ⚙️ Backend & Cloud
+MySQL • Firebase • Vercel • Docker
+
+### 🛠️ Tools
+Git • GitHub • PNPM • NPM • Windows Terminal • Arduino • Power BI • Notion
 
 ---
 
 ## 🏆 GitHub Trophies
-[![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=MrTambe&theme=gotham&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=MrTambe&theme=gotham&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## ✍️ Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
