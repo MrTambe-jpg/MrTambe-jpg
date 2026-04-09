@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 </code></pre>
 
 <pre><code>{
-  "name"     : "Your Name",
-  "origin"   : "Your Country 🌍",
+  "name"     : "Sanshit Tambe",
+  "origin"   : "IN 🌍",
   "role"     : "Software Developer",
   "focus"    : ["AI", "Robotics", "Systems"],
   "status"   : "always building something",
-  "fuel"     : "coffee + curiosity",
-  "quote"    : "Your quote here"
+  "fuel"     : "Monster + curiosity",
+  "quote"    : "Don't Give a Fuck"
 }</code></pre>
 
 </td>
