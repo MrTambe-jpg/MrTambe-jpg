@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 -->
 
 <!-- 🔥 WHO AM I + ANIME -->
-<table>
+<table width="100%">
 <tr>
-
-<td width="55%" valign="top">
+  
+<td width="50%" valign="top">
 
 <h2>◈ &nbsp; <code>who am I?</code></h2>
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 </td>
 
-<td width="45%" align="center" valign="top">
+<td width="50%" align="center" valign="top">
 
 <br/><br/>
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 </table>
 
 <!-- 💫 ABOUT + STATS -->
-<table>
+<table width="100%">
 <tr>
 
 <!-- LEFT -->
