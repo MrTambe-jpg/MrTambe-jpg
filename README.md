@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 
 <!-- 🔥 WHO AM I + ANIME -->
 <table width="100%">
+
+<!-- 🔥 ROW 1: WHO AM I + ANIME -->
 <tr>
-  
+
 <td width="50%" valign="top">
 
 <h2>◈ &nbsp; <code>who am I?</code></h2>
@@ -43,19 +45,16 @@ Here are some ideas to get you started:
 
 <img 
   src="https://i.pinimg.com/originals/fc/67/70/fc67709223666fddb8097e9fc4dfd705.jpg" 
-  width="90%" 
+  width="85%" 
 />
 
 </td>
 
 </tr>
-</table>
 
-<!-- 💫 ABOUT + STATS -->
-<table width="100%">
+<!-- 💫 ROW 2: ABOUT + STATS -->
 <tr>
 
-<!-- LEFT -->
 <td width="50%" valign="top">
 
 <h2>💫 About Me:</h2>
@@ -70,34 +69,35 @@ Ask me about VibeCode<br><br>
 
 </td>
 
-<!-- RIGHT -->
 <td width="50%" valign="top" align="center">
 
-<!-- 🔝 GitHub Stats (gold theme) -->
+<!-- 🔝 Stats -->
 <img 
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrTambe-jpg&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=C9A96E&icon_color=C9A96E&text_color=ffffff" 
-  width="90%"
+  width="95%"
 />
 
+<br/><br/>
 
-<!-- 🧠 Top Languages (gold theme) -->
+<!-- 🧠 Top Languages -->
 <img 
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrTambe-jpg&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=C9A96E&text_color=ffffff" 
-  width="90%"
+  width="95%"
 />
 
+<br/><br/>
 
-<!-- 🔥 Streak (your exact theme) -->
+<!-- 🔥 Streak -->
 <img 
   src="https://streak-stats.demolab.com?user=MrTambe-jpg&theme=dark&background=0d0d0d&border=2a2a2a&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555" 
-  width="90%"
+  width="95%"
 />
 
 </td>
 
 </tr>
-</table>
 
+</table>
 ---
 
 <p align="center">
@@ -170,16 +170,6 @@ Ask me about VibeCode<br><br>
 </p>
 
 ---
-# 📊 GitHub Stats:
-<br/>
-
-<div align="center">
-
-<img 
-  src="https://streak-stats.demolab.com?user=MrTambe-jpg&theme=dark&background=0d0d0d&border=2a2a2a&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555" 
-/>
-
-</div>
 
 ## 🏆 GitHub Trophies
 [![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=MrTambe&theme=gotham&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
