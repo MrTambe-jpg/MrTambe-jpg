@@ -14,45 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 🔥 WHO AM I + ANIME -->
-<table>
-<tr>
-
-<td width="55%" valign="top">
-
-<h2>◈ &nbsp; <code>who am I?</code></h2>
-
-<pre><code>$ cat profile.json
-</code></pre>
-
-<pre><code>{
-  "name"     : "Your Name",
-  "origin"   : "Your Country 🌍",
-  "role"     : "Software Developer",
-  "focus"    : ["AI", "Robotics", "Systems"],
-  "status"   : "always building something",
-  "fuel"     : "coffee + curiosity",
-  "quote"    : "Your quote here"
-}</code></pre>
-
-</td>
-
-<td width="45%" align="center" valign="top">
-
-<br/><br/>
-
-<img 
-  src="https://i.pinimg.com/originals/fc/67/70/fc67709223666fddb8097e9fc4dfd705.jpg" 
-  width="90%" 
-/>
-
-</td>
-
-</tr>
-</table>
-
-<br/>
-
 <!-- 💫 ABOUT + STATS -->
 <table>
 <tr>
@@ -75,25 +36,25 @@ Ask me about VibeCode<br><br>
 <!-- RIGHT -->
 <td width="50%" valign="top" align="center">
 
-<!-- ✅ MAIN STATS (stable mirror) -->
+<!-- 🔝 GitHub Stats (gold theme) -->
 <img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrTambe-jpg&show_icons=true&theme=tokyonight&hide_border=true" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrTambe-jpg&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=C9A96E&icon_color=C9A96E&text_color=ffffff" 
   width="90%"
 />
 
 <br/><br/>
 
-<!-- ✅ TOP LANGS -->
+<!-- 🧠 Top Languages (gold theme) -->
 <img 
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrTambe-jpg&layout=compact&theme=tokyonight&hide_border=true" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrTambe-jpg&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=C9A96E&text_color=ffffff" 
   width="90%"
 />
 
 <br/><br/>
 
-<!-- ✅ STREAK (always works) -->
+<!-- 🔥 Streak (your exact theme) -->
 <img 
-  src="https://streak-stats.demolab.com?user=MrTambe-jpg&theme=tokyonight&hide_border=true" 
+  src="https://streak-stats.demolab.com?user=MrTambe-jpg&theme=dark&background=0d0d0d&border=2a2a2a&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555" 
   width="90%"
 />
 
@@ -101,6 +62,7 @@ Ask me about VibeCode<br><br>
 
 </tr>
 </table>
+
 ---
 
 <p align="center">
