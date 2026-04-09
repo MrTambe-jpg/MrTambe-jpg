@@ -15,17 +15,24 @@ Here are some ideas to get you started:
 -->
 
 <!-- 🔥 WHO AM I + ANIME -->
-<table width="100%">
+<table width="100%" style="border-collapse: collapse;">
 
-<!-- 🔥 ROW 1: WHO AM I + ANIME -->
+<!-- 🔥 ROW 1 -->
 <tr>
 
-<td width="40%" valign="top">
+<!-- 🧠 WHO AM I (SCROLLABLE CARD) -->
+<td width="50%" valign="top" style="padding:10px;">
 
-<h2>◈ &nbsp; <code>who am I?</code></h2>
+<div style="
+  background-color:#0d0d0d;
+  border:1px solid #2a2a2a;
+  border-radius:12px;
+  padding:15px;
+  height:260px;
+  overflow-y:auto;
+">
 
-<pre><code>$ cat profile.json
-</code></pre>
+<h2 style="color:#C9A96E;">◈ <code>who am I?</code></h2>
 
 <pre><code>{
   "name"     : "Your Name",
@@ -37,27 +44,49 @@ Here are some ideas to get you started:
   "quote"    : "Your quote here"
 }</code></pre>
 
+</div>
+
 </td>
 
-<td width="60%" align="center" valign="top">
+<!-- 🎨 ANIME CARD -->
+<td width="50%" valign="top" style="padding:10px;" align="center">
 
-<br/><br/>
+<div style="
+  background-color:#0d0d0d;
+  border:1px solid #2a2a2a;
+  border-radius:12px;
+  padding:10px;
+">
 
 <img 
   src="https://i.pinimg.com/originals/fc/67/70/fc67709223666fddb8097e9fc4dfd705.jpg" 
-  width="85%" 
+  style="border-radius:10px;"
+  width="90%"
 />
+
+</div>
 
 </td>
 
 </tr>
 
-<!-- 💫 ROW 2: ABOUT + STATS -->
+<!-- SPACING -->
+<tr><td colspan="2" height="10"></td></tr>
+
+<!-- 💫 ROW 2 -->
 <tr>
 
-<td width="40%" valign="top">
+<!-- 💫 ABOUT CARD -->
+<td width="50%" valign="top" style="padding:10px;">
 
-<h2>💫 About Me:</h2>
+<div style="
+  background-color:#0d0d0d;
+  border:1px solid #2a2a2a;
+  border-radius:12px;
+  padding:15px;
+">
+
+<h2 style="color:#C9A96E;">💫 About Me</h2>
 
 I'm currently working on Personal Projects<br>
 I'm looking to collaborate on Open source projects<br>
@@ -67,27 +96,40 @@ Ask me about VibeCode<br><br>
 
 • Fun fact: I automate everything with AI
 
+</div>
+
 </td>
 
-<td width="60%" valign="top" align="center">
+<!-- 📊 STATS CARD -->
+<td width="50%" valign="top" align="center" style="padding:10px;">
 
-<!-- 🔝 Stats -->
+<div style="
+  background-color:#0d0d0d;
+  border:1px solid #2a2a2a;
+  border-radius:12px;
+  padding:10px;
+">
+
 <img 
   src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrTambe-jpg&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=C9A96E&icon_color=C9A96E&text_color=ffffff" 
   width="95%"
 />
 
-<!-- 🧠 Top Languages -->
+
+
 <img 
   src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrTambe-jpg&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=C9A96E&text_color=ffffff" 
   width="95%"
 />
 
-<!-- 🔥 Streak -->
+
+
 <img 
   src="https://streak-stats.demolab.com?user=MrTambe-jpg&theme=dark&background=0d0d0d&border=2a2a2a&ring=C9A96E&fire=C9A96E&currStreakLabel=C9A96E&sideLabels=888888&currStreakNum=ffffff&sideNums=ffffff&dates=555555" 
   width="95%"
 />
+
+</div>
 
 </td>
 
