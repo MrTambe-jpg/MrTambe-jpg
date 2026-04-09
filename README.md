@@ -81,12 +81,12 @@ Here are some ideas to get you started:
 ">
 
 <h2 style="color:#C9A96E;">💫 About Me</h2>
-I'm currently working on Personal Projects
-I'm looking to collaborate on Open source projects
-I'm looking for help with Codes Idea's & Brainstroms
-I'm currently learning Ai/Ml
-Ask me about VibeCode
-+ Fun fact: I use Ai like a Slave
+I'm currently working on Personal Projects<br>
+I'm looking to collaborate on Open source projects<br>
+I'm looking for help with Codes Idea's & Brainstroms<br>
+I'm currently learning Ai/Ml<br>
+Ask me about VibeCode<br>
++ Fun fact: I use Ai like a Slave<br>
 </div>
 
 </td>
