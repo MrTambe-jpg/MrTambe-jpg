@@ -23,6 +23,14 @@ $ cat profile.json
 
 <img src="https://i.pinimg.com/originals/fc/67/70/fc67709223666fddb8097e9fc4dfd705.jpg" width="88%" />
 
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+
 # 💫 About Me:
 I'm currently working on Personal Projects<br>I'm looking to collaborate on Open source projects<br>I'm looking for help with Codes Idea's & Brainstroms<br>I'm currently learning Ai/Ml<br>Ask me about VibeCode<br>+ Fun fact: I use Ai like a Slave
 
