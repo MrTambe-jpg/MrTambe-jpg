@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 <h2 style="color:#C9A96E;">◈ <code>who am I?</code></h2>
 
 <pre><code>{
-  "name"     : "Your Name",
-  "origin"   : "Your Country 🌍",
-  "role"     : "Software Developer",
+  "name"     : "MR TAMBE",
+  "origin"   : "IN 🌍",
+  "role"     : "Finding One",
   "focus"    : ["AI", "Robotics", "Systems"],
   "status"   : "always building something",
-  "fuel"     : "coffee + curiosity",
-  "quote"    : "Your quote here"
+  "fuel"     : "Caffine + WHat EvEr the Hell",
+  "quote"    : "Your quote here(Whatever)"
 }</code></pre>
 </div>
 </td>
